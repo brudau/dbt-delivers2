@@ -1,3 +1,3 @@
 # dbt-delivers2
-
-![alt titi](C:\Users\bruno\code\brudau\dbt-delivers2\giphy.gif)
+ 
+ This is a practice repository for transforming a dataset on Food Delivery in France in dbt cloud
